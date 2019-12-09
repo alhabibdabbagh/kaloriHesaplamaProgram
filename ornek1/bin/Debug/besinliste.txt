@@ -1,0 +1,87 @@
+1 dilim beyaz ekmek;28;90
+1 dilim kepekli ekmek;28;60
+1 dilim kızarmış ekmek;15;35
+1 adet kruasan;200;200
+bisküvi;100;470
+mercimek (kuru);100;314
+arpa (kuru);100;367
+bulgur (kuru);100;371
+kuskus (kuru);100;367
+mısır (kuru);100;342
+buğday (kuru);100;364
+susam;100;589
+makarna (kuru);100;339
+makarna (haşlanmış);100;85
+pirinç (kuru);100;357
+pirinç (haşlanmış);100;125
+yoğurt (yağlı);100;95
+süt (yağlı);100;68
+yoğurt (yağlı,meyveli);100;125
+beyaz peynir (yağlı);100;275
+kaşar peyniri (yağlı);100;413
+parmesan peyniri (yağlı);100;440
+yumurta;1;80
+yumurta akı;1;15
+yumurta sarısı;1;65
+tereyağı;28;206
+margarin;28;204
+yağ;28;130
+biftek (ızgara);100;278
+tavuk (ızgara);100;132
+tavuk göğsü (haşlanmış);100;150
+kuzu (yağlı, ızgara);100;282
+kuzu ciğeri (yağda);100;232
+salam;100;446
+sosis;100;295
+midye;1;9
+istiridye;1;6
+karides;1;144
+somon füme;100;171
+ton balığı;100;121
+domates;1;14
+enginar;1;10
+patlıcan;1;28
+taze fasulye;100;90
+brokoli;100;35
+brüksel lahanası;100;35
+kabak;100;25
+havuç;100;35
+karnabahar;100;32
+kereviz;100;18
+salatalık;1;11
+marul;100;15
+mantar;100;14
+soğan;100;35
+bezelye;100;89
+taze yeşil biber;120;15
+patates (haşlama);100;100
+ıspanak;100;26
+lahana;100;20
+badem;100;600
+hindistancevizi;100;603
+fındık;100;650
+fıstık;100;560
+çam fıstığı;100;600
+ceviz;100;549
+patlamış mısır;100;478
+kabak çekirdeği;100;571
+ay çekirdeği;100;578
+elma;1;60
+kayısı;1;8
+muz;1;100
+kiraz;100;40
+hurma;1;15
+incir;100;41
+incir (kuru);100;59
+greyfurt;1;60
+portakal;1;50
+kivi;1;34
+mandalina;1;50
+karpuz;100;19
+kavun;100;18
+şeftali;1;60
+armut;1;70
+erik;1;8
+üzüm;100;57
+çilek;100;26
+

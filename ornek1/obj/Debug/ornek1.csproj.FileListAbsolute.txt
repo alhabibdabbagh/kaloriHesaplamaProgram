@@ -1,0 +1,13 @@
+C:\Users\VMUser\Desktop\gorsel1_2017\hafta13-1\orgun2\ornek1\ornek1\bin\Debug\ornek1.exe.config
+C:\Users\VMUser\Desktop\gorsel1_2017\hafta13-1\orgun2\ornek1\ornek1\bin\Debug\ornek1.exe
+C:\Users\VMUser\Desktop\gorsel1_2017\hafta13-1\orgun2\ornek1\ornek1\bin\Debug\ornek1.pdb
+C:\Users\VMUser\Desktop\gorsel1_2017\hafta13-1\orgun2\ornek1\ornek1\obj\Debug\ornek1.csprojResolveAssemblyReference.cache
+C:\Users\VMUser\Desktop\gorsel1_2017\hafta13-1\orgun2\ornek1\ornek1\obj\Debug\ornek1.fbesinlistesi.resources
+C:\Users\VMUser\Desktop\gorsel1_2017\hafta13-1\orgun2\ornek1\ornek1\obj\Debug\ornek1.Form1.resources
+C:\Users\VMUser\Desktop\gorsel1_2017\hafta13-1\orgun2\ornek1\ornek1\obj\Debug\ornek1.Properties.Resources.resources
+C:\Users\VMUser\Desktop\gorsel1_2017\hafta13-1\orgun2\ornek1\ornek1\obj\Debug\ornek1.csproj.GenerateResource.Cache
+C:\Users\VMUser\Desktop\gorsel1_2017\hafta13-1\orgun2\ornek1\ornek1\obj\Debug\ornek1.exe
+C:\Users\VMUser\Desktop\gorsel1_2017\hafta13-1\orgun2\ornek1\ornek1\obj\Debug\ornek1.pdb
+C:\Users\hasan\Downloads\hafta13-1\orgun2\kaloriHesaplamaProgram\ornek1\bin\Debug\ornek1.exe.config
+C:\Users\hasan\Downloads\hafta13-1\orgun2\kaloriHesaplamaProgram\ornek1\obj\Debug\ornek1.exe
+C:\Users\hasan\Downloads\hafta13-1\orgun2\kaloriHesaplamaProgram\ornek1\obj\Debug\ornek1.pdb
