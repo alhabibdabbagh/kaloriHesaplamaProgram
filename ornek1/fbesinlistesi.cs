@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.IO;//www.gorselprogramlama.com
+using System.IO;
 
 namespace ornek1
 {
@@ -67,7 +67,7 @@ namespace ornek1
 
             if (secilen > -1 && k1 && k2)
             {
-                lpormik.Items[secilen] = pormik;//www.gorselprogramlama.com
+                lpormik.Items[secilen] = pormik;
                 lkalori.Items[secilen] = kalori;
 
                 f1porsmiktari.Items[secilen] = pormik;
@@ -133,6 +133,6 @@ namespace ornek1
             }
             catch { }
 
-        }//www.gorselprogramlama.com
+        }
     }
 }
